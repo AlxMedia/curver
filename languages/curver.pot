@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Curver\n"
-"POT-Creation-Date: 2019-02-10 16:59+0100\n"
+"POT-Creation-Date: 2019-02-15 14:08+0100\n"
 "PO-Revision-Date: 2018-09-21 21:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -133,23 +133,23 @@ msgstr ""
 msgid "Footer 4"
 msgstr ""
 
-#: functions.php:676
+#: functions.php:675
 msgid "Alx Extensions"
 msgstr ""
 
-#: functions.php:680
+#: functions.php:679
 msgid "Meta Box"
 msgstr ""
 
-#: functions.php:684
+#: functions.php:683
 msgid "Regenerate Thumbnails"
 msgstr ""
 
-#: functions.php:688
+#: functions.php:687
 msgid "WP-PageNavi"
 msgstr ""
 
-#: functions.php:692
+#: functions.php:691
 msgid "Responsive Lightbox"
 msgstr ""
 

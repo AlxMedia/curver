@@ -10,6 +10,24 @@ Kirki::add_config( 'curver', array(
 	'option_type'   => 'theme_mod',
 ) );
 
+/*  Add Links
+/* ------------------------------------ */
+Kirki::add_section( 'morelink', array(
+	'title'       => esc_html__( 'AlxMedia', 'curver' ),
+	'type'        => 'link',
+	'button_text' => esc_html__( 'View More Themes', 'curver' ),
+	'button_url'  => 'http://alxmedia.se/themes/',
+	'priority'    => 13,
+) );
+Kirki::add_section( 'reviewlink', array(
+	'title'       => esc_html__( 'Like This Theme?', 'curver' ),
+	'panel'       => 'options',
+	'type'        => 'link',
+	'button_text' => esc_html__( 'Write a Review', 'curver' ),
+	'button_url'  => 'https://wordpress.org/support/theme/curver/reviews/?filter=5#new-post',
+	'priority'    => 1,
+) );
+
 /*  Add Panels
 /* ------------------------------------ */
 Kirki::add_panel( 'options', array(

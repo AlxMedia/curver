@@ -20,7 +20,7 @@ Curver is a flexible personal blog theme with plenty of options. Optimized for a
 
 == Documentation ==
 
-http://alxmedia.se/documentation/
+http://alx.media/documentation/
 
 == Copyright ==
 

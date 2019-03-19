@@ -685,6 +685,14 @@ Kirki::add_field( 'curver_theme', array(
 	'section'		=> 'styling',
 	'default'		=> '#ed542f',
 ) );
+// Styling: Header Color
+Kirki::add_field( 'curver_theme', array(
+	'type'			=> 'color',
+	'settings'		=> 'color-header',
+	'label'			=> esc_html__( 'Header Color', 'curver' ),
+	'section'		=> 'styling',
+	'default'		=> '#000000',
+) );
 // Styling: Gradient Left
 Kirki::add_field( 'curver_theme', array(
 	'type'			=> 'color',

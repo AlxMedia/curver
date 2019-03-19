@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Curver\n"
-"POT-Creation-Date: 2019-02-17 14:26+0100\n"
+"POT-Creation-Date: 2019-03-19 17:47+0100\n"
 "PO-Revision-Date: 2018-09-21 21:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -750,23 +750,27 @@ msgid "Primary Color"
 msgstr ""
 
 #: functions/theme-options.php:692
-msgid "Gradient Color Left Top"
+msgid "Header Color"
 msgstr ""
 
 #: functions/theme-options.php:700
-msgid "Gradient Color Right Bottom"
+msgid "Gradient Color Left Top"
 msgstr ""
 
 #: functions/theme-options.php:708
+msgid "Gradient Color Right Bottom"
+msgstr ""
+
+#: functions/theme-options.php:716
 msgid "Header Logo Image Max-height"
 msgstr ""
 
-#: functions/theme-options.php:709
+#: functions/theme-options.php:717
 msgid ""
 "Your logo image should have the double height of this to be high resolution"
 msgstr ""
 
-#: functions/theme-options.php:722
+#: functions/theme-options.php:730
 msgid "Background Color"
 msgstr ""
 

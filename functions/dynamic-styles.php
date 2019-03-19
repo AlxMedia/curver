@@ -147,6 +147,19 @@ a,
 
 				'."\n";
 			}
+			// header color
+			if ( get_theme_mod('color-header','#000000') != '#000000' ) {
+				$styles .= '
+#header-inner-inner-inner { background-color: '.esc_attr( get_theme_mod('color-header') ).';  }
+@media only screen and (min-width: 720px) {
+	#nav-header .nav > li.current_page_item > a:before, 
+	#nav-header .nav > li.current-menu-item > a:before,
+	#nav-header .nav > li.current-menu-ancestor > a:before,
+	#nav-header .nav > li.current-post-parent > a:before { border-top: 8px solid '.esc_attr( get_theme_mod('color-header') ).'!important; }
+}
+.site-title { border-bottom-color: rgba(255,255,255,0.1)!important; }
+				'."\n";
+			}
 			// gradient left
 			if ( get_theme_mod('gradient-left','#da1b60') != '#da1b60' ) {
 				$styles .= '

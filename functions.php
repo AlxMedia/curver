@@ -674,10 +674,6 @@ if ( ! function_exists( 'curver_plugins' ) ) {
 				array(
 					'name' => esc_html__( 'WP-PageNavi', 'curver' ),
 					'slug' => 'wp-pagenavi',
-				),
-				array(
-					'name' => esc_html__( 'Responsive Lightbox', 'curver' ),
-					'slug' => 'responsive-lightbox',
 				)
 			);	
 			tgmpa( $plugins );

@@ -85,6 +85,8 @@ Sidebar images
 * Fixed WP-PageNavi styling issue
 * Fixed themeforms styling issue
 * Updated language files
+* Removed Responsive Lightbox as recommended plugin
+* Removed duplicate code from functions.php
 
 = 1.0.3 - 2019-03-19 =
 * Added styling option to change header color

@@ -32,7 +32,7 @@
 	<?php endif; ?>
 	
 	<?php if ( comments_open() && ( get_theme_mod( 'comment-count', 'on' ) =='on' ) ): ?>
-		<a class="post-comments" href="<?php comments_link(); ?>"><i class="fa fa-comment"></i><span><?php comments_number( '0', '1', '%' ); ?></span></a>
+		<a class="post-comments" href="<?php comments_link(); ?>"><i class="fas fa-comment"></i><span><?php comments_number( '0', '1', '%' ); ?></span></a>
 	<?php endif; ?>
 
 </article><!--/.post-->	

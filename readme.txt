@@ -2,14 +2,14 @@
 Contributors: alxmedia
 Requires at least: 5.0
 Tested up to: 5.0
-Version: 1.0.5
+Version: 1.0.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0
 Tags: blog, one-column, two-columns, right-sidebar, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-logo, custom-header, custom-background
 
 == Description ==
 
-Curver is a flexible personal blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique colorful curved header style with a header profile image, name and description. It includes a featured posts slider and two different blog layouts: standard and list. Set the theme to any width and accent color you wish. Use a sidebar to the right, or disable it entirely - it is all up to you.
+Curver is a flexible personal blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique colorful curved header style with a header profile image, name and description. It includes a featured posts slider and two different blog layouts: standard and list. Set the theme to any width and accent color you wish. Use a sidebar to the right, or disable it entirely - it is all up to you. Demo: http://demo.alx.media/x/?theme=Curver
 
 == Installation ==
 
@@ -78,6 +78,9 @@ Sidebar images
 2. https://stocksnap.io/photo/SA20YXQRC4 - CC0 1.0 Universal (CC0 1.0)
 
 == Changelog ==
+
+= 1.0.6 - 2019-08-11 =
+* Updated theme description
 
 = 1.0.5 - 2019-07-29 =
 * Updated to Font Awesome 5 Free (5.9.0)

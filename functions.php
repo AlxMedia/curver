@@ -198,7 +198,7 @@ if ( ! function_exists( 'curver_styles' ) ) {
 	
 	function curver_styles() {
 		wp_enqueue_style( 'curver-style', get_stylesheet_uri() );
-		if ( get_theme_mod('responsive','on') =='on' ) { wp_enqueue_style( 'curver-responsive', get_template_directory_uri().'/responsive.css' ); }
+		wp_enqueue_style( 'curver-responsive', get_template_directory_uri().'/responsive.css' );
 		wp_enqueue_style( 'curver-font-awesome', get_template_directory_uri().'/fonts/all.min.css' );
 	}
 	

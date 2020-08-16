@@ -58,8 +58,8 @@
 	#header .social-links .social-tooltip { font-size: 18px; }
 	.site-title { padding: 20px 0; margin: 0; width: 100%; float: none; line-height: 50px; border-bottom: 1px solid #222; }
 	.site-title a { text-align: center; }
-	.toggle-search { left: 20px; right: auto; top: 5px; bottom: auto; }
-	.search-expand { bottom: auto; right: 50px; left: 40px; top: 5px; width: auto; z-index: 99; }
+	.toggle-search { left: 0; right: auto; top: -5px; bottom: auto; }
+	.search-expand { bottom: auto; right: 60px; left: 48px; top: 8px; width: auto; z-index: 99; }
 	
 	#header-top,
 	#header-bottom { padding-left: 0; }

@@ -88,6 +88,19 @@ if ( ! function_exists( 'curver_setup' ) ) {
 add_action( 'after_setup_theme', 'curver_setup' );
 
 
+/*  Custom navigation
+/* ------------------------------------ */
+require_once 'functions/nav.php';
+$nav = new \AlxMedia\Nav();
+$nav->enqueue(
+	[
+		'script' => 'js/nav.js',
+		'inline' => false,
+	]
+);
+$nav->init();
+
+
 /*  Custom logo
 /* ------------------------------------ */
 if ( ! function_exists( 'curver_custom_logo' ) ) {

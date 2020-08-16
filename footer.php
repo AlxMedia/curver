@@ -46,14 +46,8 @@
 		</div><!--/#footer-widgets-->	
 		<?php } ?>
 		
-		<?php if ( has_nav_menu( 'footer' ) ): ?>
-			<div class="container-inner">
-				<nav class="nav-container group" id="nav-footer">
-					<div class="nav-toggle"><i class="fas fa-bars"></i></div>
-					<div class="nav-text"><!-- put your mobile menu text here --></div>
-					<div class="nav-wrap"><?php wp_nav_menu( array('theme_location'=>'footer','menu_class'=>'nav container group','container'=>'','menu_id'=>'','fallback_cb'=>false) ); ?></div>
-				</nav><!--/#nav-footer-->
-			</div>
+		<?php if ( has_nav_menu('footer') ): ?>
+			<?php \AlxMedia\Nav::nav_menu(array('theme_location'=>'footer','menu_id' => 'nav-footer','fallback_cb'=> false)); ?>
 		<?php endif; ?>
 		
 		<div id="footer-bottom">

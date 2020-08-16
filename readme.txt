@@ -2,7 +2,7 @@
 Contributors: alxmedia
 Requires at least: 5.0
 Tested up to: 5.5
-Version: 1.1.2
+Version: 1.1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0
 Tags: blog, one-column, two-columns, right-sidebar, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-logo, custom-header, custom-background
@@ -78,6 +78,9 @@ Sidebar images
 2. https://stocksnap.io/photo/SA20YXQRC4 - CC0 1.0 Universal (CC0 1.0)
 
 == Changelog ==
+
+= 1.1.3 - 2020-08-16 =
+* Fixed a11y
 
 = 1.1.2 - 2020-08-16 =
 * Improved a11y

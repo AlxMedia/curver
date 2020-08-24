@@ -689,10 +689,10 @@ background-image: linear-gradient(to top left,#ff8a00,#da1b60); }
 .nav-menu.mobile ul ul { background: rgba(0,0,0,0.05); }
 .nav-menu.mobile ul li .menu-item-wrapper,
 .nav-menu.mobile ul ul li .menu-item-wrapper { border-bottom: 1px solid rgba(255,255,255,0.14); }
-.nav-menu.mobile > div > ul > li:first-child .menu-item-wrapper { border-top: 1px solid rgba(255,255,255,0.14); }
 .nav-menu.mobile ul li a { color: #fff; }
 .nav-menu.mobile ul button,
 .nav-menu.mobile ul ul button { border-left: 1px solid rgba(255,255,255,0.14); }
+.nav-menu.mobile > div > ul { border-top: 1px solid rgba(255,255,255,0.14); }
 
 /* menu header styling */
 #header .nav-menu:not(.mobile) { padding-left: 50px; padding-right: 50px; }
@@ -739,10 +739,10 @@ background-image: linear-gradient(to top left,#ff8a00,#da1b60); }
 #footer .nav-menu.mobile ul ul { background: rgba(0,0,0,0.04); }
 #footer .nav-menu.mobile ul li .menu-item-wrapper,
 #footer .nav-menu.mobile ul ul li .menu-item-wrapper { border-bottom: 1px solid rgba(0,0,0,0.07); }
-#footer .nav-menu.mobile > div > ul > li:first-child .menu-item-wrapper { border-top: 1px solid rgba(0,0,0,0.07); }
 #footer .nav-menu.mobile ul li a { color: #555; }
 #footer .nav-menu.mobile ul button,
 #footer .nav-menu.mobile ul ul button { border-left: 1px solid rgba(0,0,0,0.07); }
+#footer .nav-menu.mobile > div > ul { border-top: 1px solid rgba(0,0,0,0.07); }
 
 
 /* ------------------------------------------------------------------------- *

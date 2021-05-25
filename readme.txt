@@ -86,6 +86,7 @@ Sidebar images
 
 = 1.1.9 - 2021-05-25 =
 * Fixed compatibility issue with custom nav and various security plugins
+* Updated language files
 
 = 1.1.8 - 2021-03-03 =
 * Fixed: mobile menu tabbing will enter in the menu even when it's closed

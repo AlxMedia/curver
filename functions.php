@@ -90,8 +90,10 @@ add_action( 'after_setup_theme', 'curver_setup' );
 
 /*  Custom navigation
 /* ------------------------------------ */
-add_action( 'wp', function() {
+if ( ! class_exists( '\Curver\Nav' ) ) {
 	require_once 'functions/nav.php';
+}
+add_action( 'wp', function() {
 	$nav = new \Curver\Nav();
 	$nav->enqueue(
 		[

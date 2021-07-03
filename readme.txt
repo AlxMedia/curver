@@ -1,7 +1,7 @@
 === Curver ===
 Contributors: alxmedia
 Requires at least: 5.0
-Tested up to: 5.6
+Tested up to: 5.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0
 Tags: blog, one-column, two-columns, right-sidebar, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-logo, custom-header, custom-background
@@ -83,6 +83,9 @@ Sidebar images
 2. https://stocksnap.io/photo/SA20YXQRC4 - CC0 1.0 Universal (CC0 1.0)
 
 == Changelog ==
+
+= 1.2.0 - 2021-07-03 =
+* Updated to Kirki 3.1.8
 
 = 1.1.9 - 2021-05-25 =
 * Fixed compatibility issue with custom nav and various security plugins

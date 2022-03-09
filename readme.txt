@@ -86,6 +86,7 @@ Sidebar images
 
 = 1.2.4 - 2022-01-24 =
 * Updated to Kirki 4.0
+* Fixed featured flexslider not loading images, disable native lazy load
 
 = 1.2.3 - 2021-08-25 =
 * Added missing theme tags for wordpress.org

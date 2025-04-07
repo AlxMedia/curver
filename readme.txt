@@ -8,7 +8,7 @@ Tags: blog, news, entertainment, one-column, two-columns, right-sidebar, custom-
 
 == Description ==
 
-Curver is a flexible personal blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique colorful curved header style with a header profile image, name and description. It includes a featured posts slider and two different blog layouts: standard and list. Set the theme to any width and accent color you wish. Use a sidebar to the right, or disable it entirely - it is all up to you. Demo: http://demo.alx.media/x/?theme=Curver
+Curver is a flexible personal blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique colorful curved header style with a header profile image, name and description. It includes a featured posts slider and two different blog layouts: standard and list. Set the theme to any width and accent color you wish. Use a sidebar to the right, or disable it entirely - it is all up to you. Demo: https://demo.agnarson.com/?theme=Curver
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Curver is a flexible personal blog theme with plenty of options. Optimized for a
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
